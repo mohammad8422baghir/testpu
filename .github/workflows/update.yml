@@ -1,0 +1,35 @@
+name: Auto Update VPN Servers
+
+on:
+  schedule:
+    # این دستور اسکریپت را هر 6 ساعت یکبار به صورت خودکار اجرا می‌کند
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    # این گزینه به شما اجازه می‌دهد هر وقت خواستید با یک دکمه دستی آن را اجرا کنید
+
+jobs:
+  update-servers:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+
+      - name: Run PHP Script
+        run: php update_servers.php
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add servers.json
+          # اگر فایلی تغییر نکرده باشد، گیت ارور نمی‌دهد و عبور می‌کند
+          git commit -m "Auto-update VPN servers list" || exit 0
+          git push

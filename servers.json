@@ -1,5 +1,245 @@
 [
     {
+        "id": "vpn652870061.opengw.net:1780",
+        "name": "Japan 1076",
+        "country": "Japan",
+        "host": "vpn652870061.opengw.net",
+        "port": 1780,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn529590155.opengw.net:1548",
+        "name": "Indonesia 13",
+        "country": "Indonesia",
+        "host": "vpn529590155.opengw.net",
+        "port": 1548,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn943142786.opengw.net:1644",
+        "name": "South Korea 1039",
+        "country": "South Korea",
+        "host": "vpn943142786.opengw.net",
+        "port": 1644,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn519275158.opengw.net:1448",
+        "name": "South Korea 1040",
+        "country": "South Korea",
+        "host": "vpn519275158.opengw.net",
+        "port": 1448,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn349129831.opengw.net:1801",
+        "name": "Japan 1077",
+        "country": "Japan",
+        "host": "vpn349129831.opengw.net",
+        "port": 1801,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn340322317.opengw.net:1996",
+        "name": "South Korea 1041",
+        "country": "South Korea",
+        "host": "vpn340322317.opengw.net",
+        "port": 1996,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn637174039.opengw.net:995",
+        "name": "Japan 1078",
+        "country": "Japan",
+        "host": "vpn637174039.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn924424273.opengw.net:995",
+        "name": "South Korea 1042",
+        "country": "South Korea",
+        "host": "vpn924424273.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn371876671.opengw.net:1408",
+        "name": "South Korea 1043",
+        "country": "South Korea",
+        "host": "vpn371876671.opengw.net",
+        "port": 1408,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn510493195.opengw.net:995",
+        "name": "South Korea 1044",
+        "country": "South Korea",
+        "host": "vpn510493195.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn147153225.opengw.net:1857",
+        "name": "Japan 1079",
+        "country": "Japan",
+        "host": "vpn147153225.opengw.net",
+        "port": 1857,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn797130044.opengw.net:1832",
+        "name": "Japan 1080",
+        "country": "Japan",
+        "host": "vpn797130044.opengw.net",
+        "port": 1832,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn185870036.opengw.net:995",
+        "name": "South Korea 1045",
+        "country": "South Korea",
+        "host": "vpn185870036.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn408359404.opengw.net:995",
+        "name": "South Korea 1046",
+        "country": "South Korea",
+        "host": "vpn408359404.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn303243600.opengw.net:1328",
+        "name": "South Korea 1047",
+        "country": "South Korea",
+        "host": "vpn303243600.opengw.net",
+        "port": 1328,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn724239571.opengw.net:995",
+        "name": "South Korea 1048",
+        "country": "South Korea",
+        "host": "vpn724239571.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn795396631.opengw.net:1969",
+        "name": "Russia 211",
+        "country": "Russia",
+        "host": "vpn795396631.opengw.net",
+        "port": 1969,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn439166660.opengw.net:1801",
+        "name": "Russia 212",
+        "country": "Russia",
+        "host": "vpn439166660.opengw.net",
+        "port": 1801,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn287306874.opengw.net:1843",
+        "name": "South Korea 1049",
+        "country": "South Korea",
+        "host": "vpn287306874.opengw.net",
+        "port": 1843,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn459674504.opengw.net:1225",
+        "name": "Russia 213",
+        "country": "Russia",
+        "host": "vpn459674504.opengw.net",
+        "port": 1225,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn144021734.opengw.net:1651",
+        "name": "United States 84",
+        "country": "United States",
+        "host": "vpn144021734.opengw.net",
+        "port": 1651,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn374515479.opengw.net:1366",
+        "name": "Japan 1081",
+        "country": "Japan",
+        "host": "vpn374515479.opengw.net",
+        "port": 1366,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn599250819.opengw.net:1969",
+        "name": "Japan 1082",
+        "country": "Japan",
+        "host": "vpn599250819.opengw.net",
+        "port": 1969,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn759993604.opengw.net:1885",
+        "name": "Japan 1083",
+        "country": "Japan",
+        "host": "vpn759993604.opengw.net",
+        "port": 1885,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn686472682.opengw.net:1490",
         "name": "Japan 1068",
         "country": "Japan",
@@ -7,7 +247,7 @@
         "port": 1490,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn313091159.opengw.net:1308",
@@ -17,7 +257,7 @@
         "port": 1308,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn499636014.opengw.net:1234",
@@ -27,7 +267,7 @@
         "port": 1234,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn577919859.opengw.net:995",
@@ -37,7 +277,7 @@
         "port": 995,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn765205372.opengw.net:1815",
@@ -47,7 +287,7 @@
         "port": 1815,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn727003635.opengw.net:1528",
@@ -57,7 +297,7 @@
         "port": 1528,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn523929515.opengw.net:1409",
@@ -67,7 +307,7 @@
         "port": 1409,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn812934891.opengw.net:1837",
@@ -77,7 +317,7 @@
         "port": 1837,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn489127665.opengw.net:995",
@@ -87,7 +327,7 @@
         "port": 995,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn987172410.opengw.net:1415",
@@ -97,7 +337,7 @@
         "port": 1415,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn146162492.opengw.net:1897",
@@ -107,7 +347,7 @@
         "port": 1897,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn669051278.opengw.net:1891",
@@ -117,7 +357,7 @@
         "port": 1891,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn590418613.opengw.net:995",
@@ -127,7 +367,7 @@
         "port": 995,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn482460950.opengw.net:1962",
@@ -137,7 +377,7 @@
         "port": 1962,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn717681208.opengw.net:1524",
@@ -147,7 +387,7 @@
         "port": 1524,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn763212161.opengw.net:995",
@@ -157,7 +397,7 @@
         "port": 995,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn854967935.opengw.net:1703",
@@ -167,7 +407,7 @@
         "port": 1703,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn162446164.opengw.net:1774",
@@ -177,7 +417,7 @@
         "port": 1774,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn567970896.opengw.net:995",
@@ -187,7 +427,7 @@
         "port": 995,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn802916273.opengw.net:1462",
@@ -197,7 +437,7 @@
         "port": 1462,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn133849931.opengw.net:1341",
@@ -207,7 +447,7 @@
         "port": 1341,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn742604007.opengw.net:1892",
@@ -217,7 +457,7 @@
         "port": 1892,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn139516364.opengw.net:995",
@@ -227,7 +467,7 @@
         "port": 995,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn715965150.opengw.net:1763",

@@ -1,5 +1,105 @@
 [
     {
+        "id": "vpn694032449.opengw.net:1830",
+        "name": "Japan 2078",
+        "country": "Japan",
+        "host": "vpn694032449.opengw.net",
+        "port": 1830,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn492132110.opengw.net:1440",
+        "name": "Vietnam 128",
+        "country": "Vietnam",
+        "host": "vpn492132110.opengw.net",
+        "port": 1440,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn957800184.opengw.net:1266",
+        "name": "Japan 2079",
+        "country": "Japan",
+        "host": "vpn957800184.opengw.net",
+        "port": 1266,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn304548758.opengw.net:1747",
+        "name": "Russia 443",
+        "country": "Russia",
+        "host": "vpn304548758.opengw.net",
+        "port": 1747,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn756067052.opengw.net:1672",
+        "name": "Thailand 111",
+        "country": "Thailand",
+        "host": "vpn756067052.opengw.net",
+        "port": 1672,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn177976718.opengw.net:1280",
+        "name": "Russia 444",
+        "country": "Russia",
+        "host": "vpn177976718.opengw.net",
+        "port": 1280,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn662780830.opengw.net:1478",
+        "name": "South Korea 2192",
+        "country": "South Korea",
+        "host": "vpn662780830.opengw.net",
+        "port": 1478,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn627322581.opengw.net:1671",
+        "name": "Russia 445",
+        "country": "Russia",
+        "host": "vpn627322581.opengw.net",
+        "port": 1671,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn704958282.opengw.net:1986",
+        "name": "Russia 446",
+        "country": "Russia",
+        "host": "vpn704958282.opengw.net",
+        "port": 1986,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn415686454.opengw.net:1535",
+        "name": "Japan 2080",
+        "country": "Japan",
+        "host": "vpn415686454.opengw.net",
+        "port": 1535,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn213125311.opengw.net:1871",
         "name": "Japan 2075",
         "country": "Japan",
@@ -7,7 +107,7 @@
         "port": 1871,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn485780034.opengw.net:1710",
@@ -17,7 +117,7 @@
         "port": 1710,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn276947248.opengw.net:1684",
@@ -27,7 +127,7 @@
         "port": 1684,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn318050571.opengw.net:1746",
@@ -37,7 +137,7 @@
         "port": 1746,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn168905351.opengw.net:995",
@@ -47,7 +147,7 @@
         "port": 995,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn817272829.opengw.net:1936",
@@ -57,7 +157,7 @@
         "port": 1936,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn783399234.opengw.net:995",

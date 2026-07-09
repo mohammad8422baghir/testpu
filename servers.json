@@ -1,5 +1,105 @@
 [
     {
+        "id": "vpn136524379.opengw.net:995",
+        "name": "South Korea 2203",
+        "country": "South Korea",
+        "host": "vpn136524379.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn445675435.opengw.net:1240",
+        "name": "Japan 2096",
+        "country": "Japan",
+        "host": "vpn445675435.opengw.net",
+        "port": 1240,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn451752131.opengw.net:1302",
+        "name": "Japan 2097",
+        "country": "Japan",
+        "host": "vpn451752131.opengw.net",
+        "port": 1302,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn991423919.opengw.net:1843",
+        "name": "Japan 2098",
+        "country": "Japan",
+        "host": "vpn991423919.opengw.net",
+        "port": 1843,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn869591668.opengw.net:995",
+        "name": "South Korea 2204",
+        "country": "South Korea",
+        "host": "vpn869591668.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn862384477.opengw.net:995",
+        "name": "South Korea 2205",
+        "country": "South Korea",
+        "host": "vpn862384477.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn558851424.opengw.net:1367",
+        "name": "Russia 452",
+        "country": "Russia",
+        "host": "vpn558851424.opengw.net",
+        "port": 1367,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn799684449.opengw.net:1512",
+        "name": "Vietnam 129",
+        "country": "Vietnam",
+        "host": "vpn799684449.opengw.net",
+        "port": 1512,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn173458867.opengw.net:1968",
+        "name": "Russia 453",
+        "country": "Russia",
+        "host": "vpn173458867.opengw.net",
+        "port": 1968,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn882552170.opengw.net:995",
+        "name": "South Korea 2206",
+        "country": "South Korea",
+        "host": "vpn882552170.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn602293224.opengw.net:1901",
         "name": "Japan 2093",
         "country": "Japan",
@@ -7,7 +107,7 @@
         "port": 1901,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn689958394.opengw.net:1828",
@@ -17,7 +117,7 @@
         "port": 1828,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn978099575.opengw.net:1552",
@@ -27,7 +127,7 @@
         "port": 1552,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn339007693.opengw.net:1937",
@@ -37,7 +137,7 @@
         "port": 1937,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn190760867.opengw.net:995",
@@ -47,7 +147,7 @@
         "port": 995,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn110522538.opengw.net:1287",
@@ -57,7 +157,7 @@
         "port": 1287,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn395062778.opengw.net:1538",

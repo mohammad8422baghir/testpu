@@ -1,5 +1,95 @@
 [
     {
+        "id": "vpn921281574.opengw.net:1671",
+        "name": "Japan 2310",
+        "country": "Japan",
+        "host": "vpn921281574.opengw.net",
+        "port": 1671,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn781391688.opengw.net:1634",
+        "name": "South Korea 2461",
+        "country": "South Korea",
+        "host": "vpn781391688.opengw.net",
+        "port": 1634,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn965358180.opengw.net:1828",
+        "name": "United States 300",
+        "country": "United States",
+        "host": "vpn965358180.opengw.net",
+        "port": 1828,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn843263081.opengw.net:1495",
+        "name": "United States 301",
+        "country": "United States",
+        "host": "vpn843263081.opengw.net",
+        "port": 1495,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn120465538.opengw.net:995",
+        "name": "The Netherlands 5",
+        "country": "The Netherlands",
+        "host": "vpn120465538.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn431204384.opengw.net:1946",
+        "name": "South Korea 2462",
+        "country": "South Korea",
+        "host": "vpn431204384.opengw.net",
+        "port": 1946,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn900785617.opengw.net:1226",
+        "name": "South Korea 2463",
+        "country": "South Korea",
+        "host": "vpn900785617.opengw.net",
+        "port": 1226,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn308090596.opengw.net:1795",
+        "name": "South Korea 2464",
+        "country": "South Korea",
+        "host": "vpn308090596.opengw.net",
+        "port": 1795,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn386180112.opengw.net:1402",
+        "name": "South Korea 2465",
+        "country": "South Korea",
+        "host": "vpn386180112.opengw.net",
+        "port": 1402,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn901347259.opengw.net:1698",
         "name": "Unknown 309",
         "country": "Unknown",
@@ -7,7 +97,7 @@
         "port": 1698,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn432616643.opengw.net:1405",
@@ -17,7 +107,7 @@
         "port": 1405,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn926626211.opengw.net:995",
@@ -27,7 +117,7 @@
         "port": 995,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn912775612.opengw.net:1480",
@@ -37,7 +127,7 @@
         "port": 1480,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn558351983.opengw.net:995",
@@ -47,7 +137,7 @@
         "port": 995,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn478260415.opengw.net:995",
@@ -57,7 +147,7 @@
         "port": 995,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn256502098.opengw.net:1252",
@@ -67,7 +157,7 @@
         "port": 1252,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn842729327.opengw.net:995",

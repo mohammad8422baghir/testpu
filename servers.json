@@ -1,5 +1,45 @@
 [
     {
+        "id": "vpn104003570.opengw.net:995",
+        "name": "United States 322",
+        "country": "United States",
+        "host": "vpn104003570.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn949175215.opengw.net:1845",
+        "name": "Canada 49",
+        "country": "Canada",
+        "host": "vpn949175215.opengw.net",
+        "port": 1845,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn412195309.opengw.net:1404",
+        "name": "Japan 2374",
+        "country": "Japan",
+        "host": "vpn412195309.opengw.net",
+        "port": 1404,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn713956429.opengw.net:1660",
+        "name": "Russia 581",
+        "country": "Russia",
+        "host": "vpn713956429.opengw.net",
+        "port": 1660,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn107502003.opengw.net:1263",
         "name": "Japan 2372",
         "country": "Japan",
@@ -7,7 +47,7 @@
         "port": 1263,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn238596130.opengw.net:1734",
@@ -17,7 +57,7 @@
         "port": 1734,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn218155929.opengw.net:1780",
@@ -27,7 +67,7 @@
         "port": 1780,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn666480754.opengw.net:995",
@@ -37,7 +77,7 @@
         "port": 995,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn991682963.opengw.net:1556",

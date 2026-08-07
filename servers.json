@@ -1,5 +1,45 @@
 [
     {
+        "id": "vpn532328795.opengw.net:1549",
+        "name": "United States 369",
+        "country": "United States",
+        "host": "vpn532328795.opengw.net",
+        "port": 1549,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn527958179.opengw.net:1943",
+        "name": "Japan 2529",
+        "country": "Japan",
+        "host": "vpn527958179.opengw.net",
+        "port": 1943,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn149728085.opengw.net:1669",
+        "name": "Japan 2530",
+        "country": "Japan",
+        "host": "vpn149728085.opengw.net",
+        "port": 1669,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn757940707.opengw.net:1271",
+        "name": "Russia 666",
+        "country": "Russia",
+        "host": "vpn757940707.opengw.net",
+        "port": 1271,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn868043657.opengw.net:1539",
         "name": "Russia 665",
         "country": "Russia",
@@ -7,7 +47,7 @@
         "port": 1539,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn409539154.opengw.net:1459",
@@ -17,7 +57,7 @@
         "port": 1459,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn674389918.opengw.net:995",
@@ -27,7 +67,7 @@
         "port": 995,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn842419824.opengw.net:1634",
@@ -37,7 +77,7 @@
         "port": 1634,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn907832912.opengw.net:1737",

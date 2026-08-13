@@ -1,12 +1,1 @@
-[
-    {
-        "id": "vpn758733467.opengw.net:995",
-        "name": "South Korea 2922",
-        "country": "South Korea",
-        "host": "vpn758733467.opengw.net",
-        "port": 995,
-        "username": "vpn",
-        "password": "vpn",
-        "is_new": true
-    }
-]
+[]

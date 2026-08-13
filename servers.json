@@ -1,5 +1,135 @@
 [
     {
+        "id": "vpn193305214.opengw.net:1599",
+        "name": "Thailand 138",
+        "country": "Thailand",
+        "host": "vpn193305214.opengw.net",
+        "port": 1599,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn688179278.opengw.net:1680",
+        "name": "Russia 713",
+        "country": "Russia",
+        "host": "vpn688179278.opengw.net",
+        "port": 1680,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn289780817.opengw.net:1352",
+        "name": "Russia 714",
+        "country": "Russia",
+        "host": "vpn289780817.opengw.net",
+        "port": 1352,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn962152051.opengw.net:1622",
+        "name": "South Korea 2929",
+        "country": "South Korea",
+        "host": "vpn962152051.opengw.net",
+        "port": 1622,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn954244954.opengw.net:1565",
+        "name": "South Korea 2930",
+        "country": "South Korea",
+        "host": "vpn954244954.opengw.net",
+        "port": 1565,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn555626893.opengw.net:1893",
+        "name": "Japan 2626",
+        "country": "Japan",
+        "host": "vpn555626893.opengw.net",
+        "port": 1893,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn540718479.opengw.net:1577",
+        "name": "Japan 2627",
+        "country": "Japan",
+        "host": "vpn540718479.opengw.net",
+        "port": 1577,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn784429696.opengw.net:1972",
+        "name": "South Korea 2931",
+        "country": "South Korea",
+        "host": "vpn784429696.opengw.net",
+        "port": 1972,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn533681586.opengw.net:1465",
+        "name": "South Korea 2932",
+        "country": "South Korea",
+        "host": "vpn533681586.opengw.net",
+        "port": 1465,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn772385289.opengw.net:1850",
+        "name": "Russia 715",
+        "country": "Russia",
+        "host": "vpn772385289.opengw.net",
+        "port": 1850,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn674958667.opengw.net:1288",
+        "name": "Japan 2628",
+        "country": "Japan",
+        "host": "vpn674958667.opengw.net",
+        "port": 1288,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn317203356.opengw.net:1957",
+        "name": "Japan 2629",
+        "country": "Japan",
+        "host": "vpn317203356.opengw.net",
+        "port": 1957,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn998045479.opengw.net:1207",
+        "name": "Japan 2630",
+        "country": "Japan",
+        "host": "vpn998045479.opengw.net",
+        "port": 1207,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn926161461.opengw.net:1875",
         "name": "Japan 2624",
         "country": "Japan",
@@ -7,7 +137,7 @@
         "port": 1875,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn175491693.opengw.net:1856",
@@ -17,7 +147,7 @@
         "port": 1856,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn718802789.opengw.net:1275",

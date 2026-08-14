@@ -1,5 +1,35 @@
 [
     {
+        "id": "vpn509640821.opengw.net:1448",
+        "name": "Japan 2636",
+        "country": "Japan",
+        "host": "vpn509640821.opengw.net",
+        "port": 1448,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn168987812.opengw.net:1640",
+        "name": "Hungary 3",
+        "country": "Hungary",
+        "host": "vpn168987812.opengw.net",
+        "port": 1640,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn532120289.opengw.net:1712",
+        "name": "Japan 2637",
+        "country": "Japan",
+        "host": "vpn532120289.opengw.net",
+        "port": 1712,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn230243676.opengw.net:1785",
         "name": "Japan 2634",
         "country": "Japan",
@@ -7,7 +37,7 @@
         "port": 1785,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn976886539.opengw.net:1360",
@@ -17,7 +47,7 @@
         "port": 1360,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn160953407.opengw.net:1666",

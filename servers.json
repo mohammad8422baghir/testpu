@@ -1,5 +1,45 @@
 [
     {
+        "id": "vpn242832503.opengw.net:1653",
+        "name": "Unknown 366",
+        "country": "Unknown",
+        "host": "vpn242832503.opengw.net",
+        "port": 1653,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn915638181.opengw.net:1678",
+        "name": "Unknown 367",
+        "country": "Unknown",
+        "host": "vpn915638181.opengw.net",
+        "port": 1678,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn440909205.opengw.net:1918",
+        "name": "Unknown 368",
+        "country": "Unknown",
+        "host": "vpn440909205.opengw.net",
+        "port": 1918,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn563806986.opengw.net:1757",
+        "name": "Unknown 369",
+        "country": "Unknown",
+        "host": "vpn563806986.opengw.net",
+        "port": 1757,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn724217137.opengw.net:1815",
         "name": "Japan 2666",
         "country": "Japan",
@@ -7,7 +47,7 @@
         "port": 1815,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "sirosirodaisuki.opengw.net:995",
@@ -17,7 +57,7 @@
         "port": 995,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn460606822.opengw.net:1427",

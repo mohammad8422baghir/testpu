@@ -1,5 +1,45 @@
 [
     {
+        "id": "vpn960606703.opengw.net:995",
+        "name": "South Korea 3009",
+        "country": "South Korea",
+        "host": "vpn960606703.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn852568034.opengw.net:995",
+        "name": "South Korea 3010",
+        "country": "South Korea",
+        "host": "vpn852568034.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn306886477.opengw.net:1756",
+        "name": "South Korea 3011",
+        "country": "South Korea",
+        "host": "vpn306886477.opengw.net",
+        "port": 1756,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn813456342.opengw.net:1450",
+        "name": "South Korea 3012",
+        "country": "South Korea",
+        "host": "vpn813456342.opengw.net",
+        "port": 1450,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn715760232.opengw.net:1785",
         "name": "Sweden 5",
         "country": "Sweden",
@@ -7,7 +47,7 @@
         "port": 1785,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn821861855.opengw.net:1254",
@@ -17,7 +57,7 @@
         "port": 1254,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn725619208.opengw.net:1501",
@@ -27,7 +67,7 @@
         "port": 1501,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn495416965.opengw.net:995",
@@ -37,7 +77,7 @@
         "port": 995,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn283614165.opengw.net:1226",

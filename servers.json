@@ -1,5 +1,55 @@
 [
     {
+        "id": "vpn833488767.opengw.net:1412",
+        "name": "Japan 2709",
+        "country": "Japan",
+        "host": "vpn833488767.opengw.net",
+        "port": 1412,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn231526020.opengw.net:1783",
+        "name": "South Korea 3054",
+        "country": "South Korea",
+        "host": "vpn231526020.opengw.net",
+        "port": 1783,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn571358216.opengw.net:1558",
+        "name": "Japan 2710",
+        "country": "Japan",
+        "host": "vpn571358216.opengw.net",
+        "port": 1558,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn113898548.opengw.net:1497",
+        "name": "Belarus 10",
+        "country": "Belarus",
+        "host": "vpn113898548.opengw.net",
+        "port": 1497,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn672803498.opengw.net:1420",
+        "name": "Morocco 1",
+        "country": "Morocco",
+        "host": "vpn672803498.opengw.net",
+        "port": 1420,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn527107528.opengw.net:1802",
         "name": "Vietnam 171",
         "country": "Vietnam",
@@ -7,7 +57,7 @@
         "port": 1802,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn324371095.opengw.net:1981",
@@ -17,7 +67,7 @@
         "port": 1981,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn424009077.opengw.net:1568",

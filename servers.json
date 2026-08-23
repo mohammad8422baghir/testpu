@@ -1,5 +1,15 @@
 [
     {
+        "id": "vpn977940161.opengw.net:1471",
+        "name": "South Korea 3088",
+        "country": "South Korea",
+        "host": "vpn977940161.opengw.net",
+        "port": 1471,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn591212595.opengw.net:1480",
         "name": "Japan 2749",
         "country": "Japan",
@@ -7,7 +17,7 @@
         "port": 1480,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn783706956.opengw.net:995",

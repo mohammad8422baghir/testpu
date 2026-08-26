@@ -1,5 +1,25 @@
 [
     {
+        "id": "vpn189698272.opengw.net:1253",
+        "name": "Russia 796",
+        "country": "Russia",
+        "host": "vpn189698272.opengw.net",
+        "port": 1253,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn108991042.opengw.net:1569",
+        "name": "Russia 797",
+        "country": "Russia",
+        "host": "vpn108991042.opengw.net",
+        "port": 1569,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn850053320.opengw.net:1201",
         "name": "Japan 2786",
         "country": "Japan",
@@ -7,7 +27,7 @@
         "port": 1201,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn225261515.opengw.net:1408",
@@ -17,7 +37,7 @@
         "port": 1408,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn101080759.opengw.net:1811",

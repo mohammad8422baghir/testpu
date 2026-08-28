@@ -1,5 +1,45 @@
 [
     {
+        "id": "vpn151949515.opengw.net:1770",
+        "name": "South Korea 3141",
+        "country": "South Korea",
+        "host": "vpn151949515.opengw.net",
+        "port": 1770,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn228844006.opengw.net:1457",
+        "name": "France 38",
+        "country": "France",
+        "host": "vpn228844006.opengw.net",
+        "port": 1457,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn541754305.opengw.net:1341",
+        "name": "Russia 802",
+        "country": "Russia",
+        "host": "vpn541754305.opengw.net",
+        "port": 1341,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn534812728.opengw.net:1307",
+        "name": "United Arab Emirates 9",
+        "country": "United Arab Emirates",
+        "host": "vpn534812728.opengw.net",
+        "port": 1307,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn359294001.opengw.net:995",
         "name": "Russia 801",
         "country": "Russia",
@@ -7,7 +47,7 @@
         "port": 995,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn198210011.opengw.net:995",
@@ -17,7 +57,7 @@
         "port": 995,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn696571767.opengw.net:1795",
@@ -27,7 +67,7 @@
         "port": 1795,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn614407701.opengw.net:1255",
@@ -37,7 +77,7 @@
         "port": 1255,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn144334436.opengw.net:1339",

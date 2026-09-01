@@ -1,5 +1,25 @@
 [
     {
+        "id": "vpn562176335.opengw.net:1208",
+        "name": "Canada 65",
+        "country": "Canada",
+        "host": "vpn562176335.opengw.net",
+        "port": 1208,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn793798150.opengw.net:1718",
+        "name": "South Korea 3169",
+        "country": "South Korea",
+        "host": "vpn793798150.opengw.net",
+        "port": 1718,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "kanratown.opengw.net:1194",
         "name": "Japan 2814",
         "country": "Japan",

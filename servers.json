@@ -1,5 +1,45 @@
 [
     {
+        "id": "vpn188590334.opengw.net:1516",
+        "name": "United States 426",
+        "country": "United States",
+        "host": "vpn188590334.opengw.net",
+        "port": 1516,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn365200105.opengw.net:1473",
+        "name": "Russia 822",
+        "country": "Russia",
+        "host": "vpn365200105.opengw.net",
+        "port": 1473,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn989583547.opengw.net:1420",
+        "name": "United States 427",
+        "country": "United States",
+        "host": "vpn989583547.opengw.net",
+        "port": 1420,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn472839388.opengw.net:1445",
+        "name": "United States 428",
+        "country": "United States",
+        "host": "vpn472839388.opengw.net",
+        "port": 1445,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn562176335.opengw.net:1208",
         "name": "Canada 65",
         "country": "Canada",
@@ -7,7 +47,7 @@
         "port": 1208,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn793798150.opengw.net:1718",
@@ -17,7 +57,7 @@
         "port": 1718,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "kanratown.opengw.net:1194",

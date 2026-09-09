@@ -1,5 +1,45 @@
 [
     {
+        "id": "vpn137894520.opengw.net:1506",
+        "name": "Japan 2867",
+        "country": "Japan",
+        "host": "vpn137894520.opengw.net",
+        "port": 1506,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn724280832.opengw.net:1633",
+        "name": "Japan 2868",
+        "country": "Japan",
+        "host": "vpn724280832.opengw.net",
+        "port": 1633,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn349783000.opengw.net:1323",
+        "name": "Vietnam 187",
+        "country": "Vietnam",
+        "host": "vpn349783000.opengw.net",
+        "port": 1323,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn684410208.opengw.net:1896",
+        "name": "South Korea 3242",
+        "country": "South Korea",
+        "host": "vpn684410208.opengw.net",
+        "port": 1896,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn992628199.opengw.net:995",
         "name": "Vietnam 186",
         "country": "Vietnam",
@@ -7,7 +47,7 @@
         "port": 995,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn189811863.opengw.net:1781",
@@ -17,7 +57,7 @@
         "port": 1781,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn666055544.opengw.net:1680",
@@ -27,7 +67,7 @@
         "port": 1680,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn338555583.opengw.net:995",
@@ -37,7 +77,7 @@
         "port": 995,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn572367355.opengw.net:995",

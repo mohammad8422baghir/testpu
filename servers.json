@@ -1,5 +1,35 @@
 [
     {
+        "id": "vpn603266989.opengw.net:1497",
+        "name": "Unknown 417",
+        "country": "Unknown",
+        "host": "vpn603266989.opengw.net",
+        "port": 1497,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn310903314.opengw.net:995",
+        "name": "Unknown 418",
+        "country": "Unknown",
+        "host": "vpn310903314.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn493484929.opengw.net:1498",
+        "name": "Unknown 419",
+        "country": "Unknown",
+        "host": "vpn493484929.opengw.net",
+        "port": 1498,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn501679275.opengw.net:1503",
         "name": "Japan 3065",
         "country": "Japan",
@@ -7,7 +37,7 @@
         "port": 1503,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn291052336.opengw.net:1698",
@@ -17,7 +47,7 @@
         "port": 1698,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn647079365.opengw.net:995",

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "vpn642226046.opengw.net:1880",
+        "name": "Japan 3111",
+        "country": "Japan",
+        "host": "vpn642226046.opengw.net",
+        "port": 1880,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn187463100.opengw.net:1222",
+        "name": "Japan 3112",
+        "country": "Japan",
+        "host": "vpn187463100.opengw.net",
+        "port": 1222,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn425716633.opengw.net:1777",
+        "name": "Russia 950",
+        "country": "Russia",
+        "host": "vpn425716633.opengw.net",
+        "port": 1777,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

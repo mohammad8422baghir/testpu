@@ -1,0 +1,32 @@
+[
+    {
+        "id": "vpn440511737.opengw.net:995",
+        "name": "United States 484",
+        "country": "United States",
+        "host": "vpn440511737.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn359681224.opengw.net:1925",
+        "name": "Mexico 13",
+        "country": "Mexico",
+        "host": "vpn359681224.opengw.net",
+        "port": 1925,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn637265506.opengw.net:1259",
+        "name": "Russia 951",
+        "country": "Russia",
+        "host": "vpn637265506.opengw.net",
+        "port": 1259,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

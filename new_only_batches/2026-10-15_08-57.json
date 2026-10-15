@@ -1,0 +1,12 @@
+[
+    {
+        "id": "vpn995261252.opengw.net:1394",
+        "name": "Thailand 172",
+        "country": "Thailand",
+        "host": "vpn995261252.opengw.net",
+        "port": 1394,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

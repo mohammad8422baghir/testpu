@@ -1,0 +1,82 @@
+[
+    {
+        "id": "vpn184261312.opengw.net:1732",
+        "name": "Thailand 174",
+        "country": "Thailand",
+        "host": "vpn184261312.opengw.net",
+        "port": 1732,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn847500243.opengw.net:1579",
+        "name": "Japan 3136",
+        "country": "Japan",
+        "host": "vpn847500243.opengw.net",
+        "port": 1579,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn591168438.opengw.net:1911",
+        "name": "Japan 3137",
+        "country": "Japan",
+        "host": "vpn591168438.opengw.net",
+        "port": 1911,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn468400206.opengw.net:1279",
+        "name": "Thailand 175",
+        "country": "Thailand",
+        "host": "vpn468400206.opengw.net",
+        "port": 1279,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn280980461.opengw.net:995",
+        "name": "South Korea 3570",
+        "country": "South Korea",
+        "host": "vpn280980461.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn784414050.opengw.net:1328",
+        "name": "South Korea 3571",
+        "country": "South Korea",
+        "host": "vpn784414050.opengw.net",
+        "port": 1328,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn306187257.opengw.net:1678",
+        "name": "South Korea 3572",
+        "country": "South Korea",
+        "host": "vpn306187257.opengw.net",
+        "port": 1678,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn625710517.opengw.net:1813",
+        "name": "Russia 968",
+        "country": "Russia",
+        "host": "vpn625710517.opengw.net",
+        "port": 1813,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

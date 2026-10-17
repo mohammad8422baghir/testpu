@@ -1,0 +1,52 @@
+[
+    {
+        "id": "snmarron.opengw.net:992",
+        "name": "France 48",
+        "country": "France",
+        "host": "snmarron.opengw.net",
+        "port": 992,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn840307085.opengw.net:1926",
+        "name": "Japan 3141",
+        "country": "Japan",
+        "host": "vpn840307085.opengw.net",
+        "port": 1926,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn461782020.opengw.net:995",
+        "name": "South Korea 3575",
+        "country": "South Korea",
+        "host": "vpn461782020.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn514391704.opengw.net:995",
+        "name": "South Korea 3576",
+        "country": "South Korea",
+        "host": "vpn514391704.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn243502945.opengw.net:1631",
+        "name": "Russia 969",
+        "country": "Russia",
+        "host": "vpn243502945.opengw.net",
+        "port": 1631,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

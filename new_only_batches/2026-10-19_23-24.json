@@ -1,0 +1,12 @@
+[
+    {
+        "id": "vpn793137710.opengw.net:1330",
+        "name": "Russia 984",
+        "country": "Russia",
+        "host": "vpn793137710.opengw.net",
+        "port": 1330,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

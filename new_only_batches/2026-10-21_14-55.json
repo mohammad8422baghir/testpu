@@ -1,0 +1,52 @@
+[
+    {
+        "id": "vpn917260494.opengw.net:1643",
+        "name": "Unknown 420",
+        "country": "Unknown",
+        "host": "vpn917260494.opengw.net",
+        "port": 1643,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn145465889.opengw.net:995",
+        "name": "Brazil 9",
+        "country": "Brazil",
+        "host": "vpn145465889.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn306571236.opengw.net:1795",
+        "name": "South Korea 3624",
+        "country": "South Korea",
+        "host": "vpn306571236.opengw.net",
+        "port": 1795,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn228288689.opengw.net:995",
+        "name": "South Korea 3625",
+        "country": "South Korea",
+        "host": "vpn228288689.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn336636315.opengw.net:1910",
+        "name": "South Korea 3626",
+        "country": "South Korea",
+        "host": "vpn336636315.opengw.net",
+        "port": 1910,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

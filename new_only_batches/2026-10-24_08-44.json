@@ -1,0 +1,82 @@
+[
+    {
+        "id": "vpn254044391.opengw.net:1293",
+        "name": "United States 507",
+        "country": "United States",
+        "host": "vpn254044391.opengw.net",
+        "port": 1293,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn800847566.opengw.net:1823",
+        "name": "South Korea 3665",
+        "country": "South Korea",
+        "host": "vpn800847566.opengw.net",
+        "port": 1823,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn336152921.opengw.net:1541",
+        "name": "South Korea 3666",
+        "country": "South Korea",
+        "host": "vpn336152921.opengw.net",
+        "port": 1541,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn995398049.opengw.net:1362",
+        "name": "Japan 3198",
+        "country": "Japan",
+        "host": "vpn995398049.opengw.net",
+        "port": 1362,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn434117392.opengw.net:1845",
+        "name": "South Korea 3667",
+        "country": "South Korea",
+        "host": "vpn434117392.opengw.net",
+        "port": 1845,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn189741813.opengw.net:995",
+        "name": "South Korea 3668",
+        "country": "South Korea",
+        "host": "vpn189741813.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn769612867.opengw.net:995",
+        "name": "South Korea 3669",
+        "country": "South Korea",
+        "host": "vpn769612867.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn455199443.opengw.net:1904",
+        "name": "Russia 993",
+        "country": "Russia",
+        "host": "vpn455199443.opengw.net",
+        "port": 1904,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

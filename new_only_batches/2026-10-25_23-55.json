@@ -1,0 +1,22 @@
+[
+    {
+        "id": "vpn301847942.opengw.net:1391",
+        "name": "Saudi Arabia 2",
+        "country": "Saudi Arabia",
+        "host": "vpn301847942.opengw.net",
+        "port": 1391,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn380769701.opengw.net:1381",
+        "name": "South Korea 3684",
+        "country": "South Korea",
+        "host": "vpn380769701.opengw.net",
+        "port": 1381,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

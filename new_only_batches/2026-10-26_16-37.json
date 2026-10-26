@@ -1,0 +1,12 @@
+[
+    {
+        "id": "vpn925662300.opengw.net:995",
+        "name": "South Korea 3690",
+        "country": "South Korea",
+        "host": "vpn925662300.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

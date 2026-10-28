@@ -1,50 +1,40 @@
 [
     {
-        "id": "vpn736691528.opengw.net:995",
-        "name": "South Korea 3700",
+        "id": "vpn897795796.opengw.net:1664",
+        "name": "South Korea 3701",
         "country": "South Korea",
-        "host": "vpn736691528.opengw.net",
+        "host": "vpn897795796.opengw.net",
+        "port": 1664,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn941986434.opengw.net:995",
+        "name": "South Korea 3702",
+        "country": "South Korea",
+        "host": "vpn941986434.opengw.net",
         "port": 995,
         "username": "vpn",
         "password": "vpn",
         "is_new": true
     },
     {
-        "id": "vpn304787300.opengw.net:1914",
-        "name": "Russia 1003",
+        "id": "vpn918063283.opengw.net:1805",
+        "name": "Russia 1005",
         "country": "Russia",
-        "host": "vpn304787300.opengw.net",
-        "port": 1914,
+        "host": "vpn918063283.opengw.net",
+        "port": 1805,
         "username": "vpn",
         "password": "vpn",
         "is_new": true
     },
     {
-        "id": "vpn766142314.opengw.net:1467",
-        "name": "Russia 1004",
-        "country": "Russia",
-        "host": "vpn766142314.opengw.net",
-        "port": 1467,
-        "username": "vpn",
-        "password": "vpn",
-        "is_new": true
-    },
-    {
-        "id": "vpn593514964.opengw.net:1935",
-        "name": "Japan 3215",
+        "id": "vpn295481919.opengw.net:1420",
+        "name": "Japan 3217",
         "country": "Japan",
-        "host": "vpn593514964.opengw.net",
-        "port": 1935,
-        "username": "vpn",
-        "password": "vpn",
-        "is_new": true
-    },
-    {
-        "id": "vpn303361365.opengw.net:1783",
-        "name": "Japan 3216",
-        "country": "Japan",
-        "host": "vpn303361365.opengw.net",
-        "port": 1783,
+        "host": "vpn295481919.opengw.net",
+        "port": 1420,
         "username": "vpn",
         "password": "vpn",
         "is_new": true

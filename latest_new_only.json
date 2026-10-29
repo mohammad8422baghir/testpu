@@ -1,30 +1,30 @@
 [
     {
-        "id": "vpn457360411.opengw.net:995",
-        "name": "South Korea 3714",
+        "id": "vpn716886098.opengw.net:1502",
+        "name": "Ukraine 19",
+        "country": "Ukraine",
+        "host": "vpn716886098.opengw.net",
+        "port": 1502,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn741615515.opengw.net:995",
+        "name": "South Korea 3716",
         "country": "South Korea",
-        "host": "vpn457360411.opengw.net",
+        "host": "vpn741615515.opengw.net",
         "port": 995,
         "username": "vpn",
         "password": "vpn",
         "is_new": true
     },
     {
-        "id": "vpn835795625.opengw.net:1962",
-        "name": "South Korea 3715",
+        "id": "vpn351614236.opengw.net:1853",
+        "name": "South Korea 3717",
         "country": "South Korea",
-        "host": "vpn835795625.opengw.net",
-        "port": 1962,
-        "username": "vpn",
-        "password": "vpn",
-        "is_new": true
-    },
-    {
-        "id": "vpn340411069.opengw.net:1482",
-        "name": "France 49",
-        "country": "France",
-        "host": "vpn340411069.opengw.net",
-        "port": 1482,
+        "host": "vpn351614236.opengw.net",
+        "port": 1853,
         "username": "vpn",
         "password": "vpn",
         "is_new": true

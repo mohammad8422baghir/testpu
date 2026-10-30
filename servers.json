@@ -1,5 +1,45 @@
 [
     {
+        "id": "vpn902069438.opengw.net:1984",
+        "name": "Russia 1010",
+        "country": "Russia",
+        "host": "vpn902069438.opengw.net",
+        "port": 1984,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn792639718.opengw.net:1938",
+        "name": "South Korea 3721",
+        "country": "South Korea",
+        "host": "vpn792639718.opengw.net",
+        "port": 1938,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn957616555.opengw.net:1215",
+        "name": "Japan 3226",
+        "country": "Japan",
+        "host": "vpn957616555.opengw.net",
+        "port": 1215,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn893273760.opengw.net:1572",
+        "name": "South Korea 3722",
+        "country": "South Korea",
+        "host": "vpn893273760.opengw.net",
+        "port": 1572,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn128013158.opengw.net:1594",
         "name": "South Korea 3719",
         "country": "South Korea",
@@ -7,7 +47,7 @@
         "port": 1594,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn575638562.opengw.net:1916",
@@ -17,7 +57,7 @@
         "port": 1916,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn594353135.opengw.net:1694",
@@ -27,7 +67,7 @@
         "port": 1694,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn661075949.opengw.net:1221",
@@ -37,7 +77,7 @@
         "port": 1221,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn258000289.opengw.net:1917",

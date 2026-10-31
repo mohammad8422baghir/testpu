@@ -1,0 +1,22 @@
+[
+    {
+        "id": "vpn554312367.opengw.net:1516",
+        "name": "Japan 3234",
+        "country": "Japan",
+        "host": "vpn554312367.opengw.net",
+        "port": 1516,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn489892104.opengw.net:1766",
+        "name": "Russia 1016",
+        "country": "Russia",
+        "host": "vpn489892104.opengw.net",
+        "port": 1766,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

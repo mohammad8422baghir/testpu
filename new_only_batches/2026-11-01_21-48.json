@@ -1,0 +1,52 @@
+[
+    {
+        "id": "vpn355493117.opengw.net:1548",
+        "name": "Russia 1020",
+        "country": "Russia",
+        "host": "vpn355493117.opengw.net",
+        "port": 1548,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn450657493.opengw.net:1279",
+        "name": "Russia 1021",
+        "country": "Russia",
+        "host": "vpn450657493.opengw.net",
+        "port": 1279,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn442907539.opengw.net:1510",
+        "name": "United States 513",
+        "country": "United States",
+        "host": "vpn442907539.opengw.net",
+        "port": 1510,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn144814701.opengw.net:1950",
+        "name": "Russia 1022",
+        "country": "Russia",
+        "host": "vpn144814701.opengw.net",
+        "port": 1950,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn410287983.opengw.net:995",
+        "name": "Vietnam 220",
+        "country": "Vietnam",
+        "host": "vpn410287983.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

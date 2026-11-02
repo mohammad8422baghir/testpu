@@ -1,50 +1,50 @@
 [
     {
-        "id": "vpn231298988.opengw.net:1953",
-        "name": "United Arab Emirates 12",
-        "country": "United Arab Emirates",
-        "host": "vpn231298988.opengw.net",
-        "port": 1953,
+        "id": "vpn862424028.opengw.net:1650",
+        "name": "Vietnam 221",
+        "country": "Vietnam",
+        "host": "vpn862424028.opengw.net",
+        "port": 1650,
         "username": "vpn",
         "password": "vpn",
         "is_new": true
     },
     {
-        "id": "vpn605858216.opengw.net:1569",
-        "name": "Russia 1023",
+        "id": "vpn318357815.opengw.net:1517",
+        "name": "Thailand 188",
+        "country": "Thailand",
+        "host": "vpn318357815.opengw.net",
+        "port": 1517,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn796017405.opengw.net:1750",
+        "name": "South Korea 3745",
+        "country": "South Korea",
+        "host": "vpn796017405.opengw.net",
+        "port": 1750,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn875965805.opengw.net:1381",
+        "name": "Russia 1026",
         "country": "Russia",
-        "host": "vpn605858216.opengw.net",
-        "port": 1569,
+        "host": "vpn875965805.opengw.net",
+        "port": 1381,
         "username": "vpn",
         "password": "vpn",
         "is_new": true
     },
     {
-        "id": "vpn913230858.opengw.net:1326",
-        "name": "Russia 1024",
-        "country": "Russia",
-        "host": "vpn913230858.opengw.net",
-        "port": 1326,
-        "username": "vpn",
-        "password": "vpn",
-        "is_new": true
-    },
-    {
-        "id": "vpn384240888.opengw.net:1258",
-        "name": "Russia 1025",
-        "country": "Russia",
-        "host": "vpn384240888.opengw.net",
-        "port": 1258,
-        "username": "vpn",
-        "password": "vpn",
-        "is_new": true
-    },
-    {
-        "id": "vpn805303633.opengw.net:1808",
-        "name": "Japan 3239",
+        "id": "vpn645484140.opengw.net:1229",
+        "name": "Japan 3240",
         "country": "Japan",
-        "host": "vpn805303633.opengw.net",
-        "port": 1808,
+        "host": "vpn645484140.opengw.net",
+        "port": 1229,
         "username": "vpn",
         "password": "vpn",
         "is_new": true

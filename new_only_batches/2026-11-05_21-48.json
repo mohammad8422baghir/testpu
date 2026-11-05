@@ -1,0 +1,52 @@
+[
+    {
+        "id": "vpn984062575.opengw.net:1374",
+        "name": "Unknown 445",
+        "country": "Unknown",
+        "host": "vpn984062575.opengw.net",
+        "port": 1374,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn363235290.opengw.net:1779",
+        "name": "Unknown 446",
+        "country": "Unknown",
+        "host": "vpn363235290.opengw.net",
+        "port": 1779,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn833141959.opengw.net:1928",
+        "name": "Unknown 447",
+        "country": "Unknown",
+        "host": "vpn833141959.opengw.net",
+        "port": 1928,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn112730039.opengw.net:1907",
+        "name": "Unknown 448",
+        "country": "Unknown",
+        "host": "vpn112730039.opengw.net",
+        "port": 1907,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn203883734.opengw.net:1645",
+        "name": "South Korea 3760",
+        "country": "South Korea",
+        "host": "vpn203883734.opengw.net",
+        "port": 1645,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

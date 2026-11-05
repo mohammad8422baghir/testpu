@@ -1,0 +1,42 @@
+[
+    {
+        "id": "vpn724454828.opengw.net:1470",
+        "name": "Unknown 441",
+        "country": "Unknown",
+        "host": "vpn724454828.opengw.net",
+        "port": 1470,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn193828455.opengw.net:1606",
+        "name": "Unknown 442",
+        "country": "Unknown",
+        "host": "vpn193828455.opengw.net",
+        "port": 1606,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn530388298.opengw.net:1577",
+        "name": "Unknown 443",
+        "country": "Unknown",
+        "host": "vpn530388298.opengw.net",
+        "port": 1577,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn809706427.opengw.net:995",
+        "name": "Unknown 444",
+        "country": "Unknown",
+        "host": "vpn809706427.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "vpn261703031.opengw.net:1730",
+        "name": "Unknown 474",
+        "country": "Unknown",
+        "host": "vpn261703031.opengw.net",
+        "port": 1730,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn308297896.opengw.net:1273",
+        "name": "Unknown 475",
+        "country": "Unknown",
+        "host": "vpn308297896.opengw.net",
+        "port": 1273,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn875984278.opengw.net:1368",
+        "name": "Unknown 476",
+        "country": "Unknown",
+        "host": "vpn875984278.opengw.net",
+        "port": 1368,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

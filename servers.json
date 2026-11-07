@@ -1,5 +1,55 @@
 [
     {
+        "id": "vpn186876378.opengw.net:1645",
+        "name": "Unknown 480",
+        "country": "Unknown",
+        "host": "vpn186876378.opengw.net",
+        "port": 1645,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn712368643.opengw.net:1502",
+        "name": "Unknown 481",
+        "country": "Unknown",
+        "host": "vpn712368643.opengw.net",
+        "port": 1502,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn511677722.opengw.net:1985",
+        "name": "Unknown 482",
+        "country": "Unknown",
+        "host": "vpn511677722.opengw.net",
+        "port": 1985,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn893241976.opengw.net:1264",
+        "name": "Unknown 483",
+        "country": "Unknown",
+        "host": "vpn893241976.opengw.net",
+        "port": 1264,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn283836527.opengw.net:1211",
+        "name": "Unknown 484",
+        "country": "Unknown",
+        "host": "vpn283836527.opengw.net",
+        "port": 1211,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn409089852.opengw.net:1743",
         "name": "Unknown 477",
         "country": "Unknown",
@@ -7,7 +57,7 @@
         "port": 1743,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn302695298.opengw.net:1533",
@@ -17,7 +67,7 @@
         "port": 1533,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn608264323.opengw.net:1514",
@@ -27,7 +77,7 @@
         "port": 1514,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn261703031.opengw.net:1730",

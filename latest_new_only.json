@@ -1,60 +1,20 @@
 [
     {
-        "id": "vpn247849172.opengw.net:995",
-        "name": "Unknown 487",
+        "id": "vpn610730061.opengw.net:1254",
+        "name": "Unknown 493",
         "country": "Unknown",
-        "host": "vpn247849172.opengw.net",
+        "host": "vpn610730061.opengw.net",
+        "port": 1254,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn309937355.opengw.net:995",
+        "name": "Unknown 494",
+        "country": "Unknown",
+        "host": "vpn309937355.opengw.net",
         "port": 995,
-        "username": "vpn",
-        "password": "vpn",
-        "is_new": true
-    },
-    {
-        "id": "vpn855340230.opengw.net:1295",
-        "name": "Unknown 488",
-        "country": "Unknown",
-        "host": "vpn855340230.opengw.net",
-        "port": 1295,
-        "username": "vpn",
-        "password": "vpn",
-        "is_new": true
-    },
-    {
-        "id": "vpn997653096.opengw.net:1587",
-        "name": "Unknown 489",
-        "country": "Unknown",
-        "host": "vpn997653096.opengw.net",
-        "port": 1587,
-        "username": "vpn",
-        "password": "vpn",
-        "is_new": true
-    },
-    {
-        "id": "vpn130978328.opengw.net:1257",
-        "name": "Unknown 490",
-        "country": "Unknown",
-        "host": "vpn130978328.opengw.net",
-        "port": 1257,
-        "username": "vpn",
-        "password": "vpn",
-        "is_new": true
-    },
-    {
-        "id": "vpn492818501.opengw.net:1856",
-        "name": "Unknown 491",
-        "country": "Unknown",
-        "host": "vpn492818501.opengw.net",
-        "port": 1856,
-        "username": "vpn",
-        "password": "vpn",
-        "is_new": true
-    },
-    {
-        "id": "vpn666319855.opengw.net:1662",
-        "name": "Unknown 492",
-        "country": "Unknown",
-        "host": "vpn666319855.opengw.net",
-        "port": 1662,
         "username": "vpn",
         "password": "vpn",
         "is_new": true

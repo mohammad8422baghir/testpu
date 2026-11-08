@@ -1,0 +1,22 @@
+[
+    {
+        "id": "vpn610730061.opengw.net:1254",
+        "name": "Unknown 493",
+        "country": "Unknown",
+        "host": "vpn610730061.opengw.net",
+        "port": 1254,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn309937355.opengw.net:995",
+        "name": "Unknown 494",
+        "country": "Unknown",
+        "host": "vpn309937355.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

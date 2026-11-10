@@ -1,0 +1,42 @@
+[
+    {
+        "id": "vpn912280542.opengw.net:1983",
+        "name": "Russia 1032",
+        "country": "Russia",
+        "host": "vpn912280542.opengw.net",
+        "port": 1983,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn190159339.opengw.net:1449",
+        "name": "Russia 1033",
+        "country": "Russia",
+        "host": "vpn190159339.opengw.net",
+        "port": 1449,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn923647001.opengw.net:995",
+        "name": "Russia 1034",
+        "country": "Russia",
+        "host": "vpn923647001.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn462266065.opengw.net:1606",
+        "name": "Uruguay 3",
+        "country": "Uruguay",
+        "host": "vpn462266065.opengw.net",
+        "port": 1606,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

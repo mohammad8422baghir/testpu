@@ -1,5 +1,45 @@
 [
     {
+        "id": "vpn452570908.opengw.net:1835",
+        "name": "Japan 3261",
+        "country": "Japan",
+        "host": "vpn452570908.opengw.net",
+        "port": 1835,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn574345971.opengw.net:995",
+        "name": "South Korea 3785",
+        "country": "South Korea",
+        "host": "vpn574345971.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn530323463.opengw.net:995",
+        "name": "South Korea 3786",
+        "country": "South Korea",
+        "host": "vpn530323463.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn882842631.opengw.net:1935",
+        "name": "Russia 1045",
+        "country": "Russia",
+        "host": "vpn882842631.opengw.net",
+        "port": 1935,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
         "id": "vpn758894710.opengw.net:1360",
         "name": "South Korea 3784",
         "country": "South Korea",
@@ -7,7 +47,7 @@
         "port": 1360,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn184934717.opengw.net:1902",
@@ -17,7 +57,7 @@
         "port": 1902,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn807752057.opengw.net:1595",
@@ -27,7 +67,7 @@
         "port": 1595,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn725489102.opengw.net:1839",
@@ -37,7 +77,7 @@
         "port": 1839,
         "username": "vpn",
         "password": "vpn",
-        "is_new": true
+        "is_new": false
     },
     {
         "id": "vpn449027987.opengw.net:1391",

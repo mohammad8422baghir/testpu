@@ -1,0 +1,12 @@
+[
+    {
+        "id": "vpn138545915.opengw.net:1913",
+        "name": "Japan 3268",
+        "country": "Japan",
+        "host": "vpn138545915.opengw.net",
+        "port": 1913,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

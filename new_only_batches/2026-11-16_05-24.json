@@ -1,0 +1,32 @@
+[
+    {
+        "id": "vpn795790662.opengw.net:1903",
+        "name": "Japan 3278",
+        "country": "Japan",
+        "host": "vpn795790662.opengw.net",
+        "port": 1903,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn950287300.opengw.net:1881",
+        "name": "Japan 3279",
+        "country": "Japan",
+        "host": "vpn950287300.opengw.net",
+        "port": 1881,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn939655436.opengw.net:1612",
+        "name": "Japan 3280",
+        "country": "Japan",
+        "host": "vpn939655436.opengw.net",
+        "port": 1612,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

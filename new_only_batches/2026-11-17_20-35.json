@@ -1,0 +1,42 @@
+[
+    {
+        "id": "vpn795961097.opengw.net:1264",
+        "name": "Japan 3284",
+        "country": "Japan",
+        "host": "vpn795961097.opengw.net",
+        "port": 1264,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn806404670.opengw.net:1689",
+        "name": "Mexico 15",
+        "country": "Mexico",
+        "host": "vpn806404670.opengw.net",
+        "port": 1689,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn311336380.opengw.net:1617",
+        "name": "Japan 3285",
+        "country": "Japan",
+        "host": "vpn311336380.opengw.net",
+        "port": 1617,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn851299351.opengw.net:1776",
+        "name": "Japan 3286",
+        "country": "Japan",
+        "host": "vpn851299351.opengw.net",
+        "port": 1776,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": "vpn959619715.opengw.net:1710",
+        "name": "South Korea 3815",
+        "country": "South Korea",
+        "host": "vpn959619715.opengw.net",
+        "port": 1710,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn446922568.opengw.net:1881",
+        "name": "Vietnam 222",
+        "country": "Vietnam",
+        "host": "vpn446922568.opengw.net",
+        "port": 1881,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn889705748.opengw.net:1992",
+        "name": "South Korea 3816",
+        "country": "South Korea",
+        "host": "vpn889705748.opengw.net",
+        "port": 1992,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn532724065.opengw.net:1321",
+        "name": "South Korea 3817",
+        "country": "South Korea",
+        "host": "vpn532724065.opengw.net",
+        "port": 1321,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "hlebasibiri.opengw.net:992",
+        "name": "Russia 1068",
+        "country": "Russia",
+        "host": "hlebasibiri.opengw.net",
+        "port": 992,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn212659618.opengw.net:1375",
+        "name": "Canada 73",
+        "country": "Canada",
+        "host": "vpn212659618.opengw.net",
+        "port": 1375,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]

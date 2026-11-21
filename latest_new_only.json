@@ -1,30 +1,60 @@
 [
     {
-        "id": "vpn581649262.opengw.net:1907",
-        "name": "Russia 1072",
-        "country": "Russia",
-        "host": "vpn581649262.opengw.net",
-        "port": 1907,
+        "id": "vpn221983504.opengw.net:1299",
+        "name": "Japan 3302",
+        "country": "Japan",
+        "host": "vpn221983504.opengw.net",
+        "port": 1299,
         "username": "vpn",
         "password": "vpn",
         "is_new": true
     },
     {
-        "id": "vpn157099394.opengw.net:1949",
-        "name": "South Korea 3831",
+        "id": "vpn231713230.opengw.net:995",
+        "name": "South Korea 3833",
         "country": "South Korea",
-        "host": "vpn157099394.opengw.net",
-        "port": 1949,
+        "host": "vpn231713230.opengw.net",
+        "port": 995,
         "username": "vpn",
         "password": "vpn",
         "is_new": true
     },
     {
-        "id": "vpn986327381.opengw.net:1518",
-        "name": "South Korea 3832",
+        "id": "vpn637706426.opengw.net:1941",
+        "name": "Japan 3303",
+        "country": "Japan",
+        "host": "vpn637706426.opengw.net",
+        "port": 1941,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn250018887.opengw.net:995",
+        "name": "South Korea 3834",
         "country": "South Korea",
-        "host": "vpn986327381.opengw.net",
-        "port": 1518,
+        "host": "vpn250018887.opengw.net",
+        "port": 995,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn200748468.opengw.net:1917",
+        "name": "Japan 3304",
+        "country": "Japan",
+        "host": "vpn200748468.opengw.net",
+        "port": 1917,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn319485276.opengw.net:1724",
+        "name": "Japan 3305",
+        "country": "Japan",
+        "host": "vpn319485276.opengw.net",
+        "port": 1724,
         "username": "vpn",
         "password": "vpn",
         "is_new": true

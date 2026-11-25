@@ -1,70 +1,30 @@
 [
     {
-        "id": "vpn580612947.opengw.net:1201",
-        "name": "Thailand 193",
-        "country": "Thailand",
-        "host": "vpn580612947.opengw.net",
-        "port": 1201,
+        "id": "vpn266490849.opengw.net:1953",
+        "name": "South Korea 3857",
+        "country": "South Korea",
+        "host": "vpn266490849.opengw.net",
+        "port": 1953,
         "username": "vpn",
         "password": "vpn",
         "is_new": true
     },
     {
-        "id": "vpn194022339.opengw.net:1346",
-        "name": "Japan 3328",
+        "id": "vpn297440437.opengw.net:1641",
+        "name": "Japan 3329",
         "country": "Japan",
-        "host": "vpn194022339.opengw.net",
-        "port": 1346,
+        "host": "vpn297440437.opengw.net",
+        "port": 1641,
         "username": "vpn",
         "password": "vpn",
         "is_new": true
     },
     {
-        "id": "vpn678118359.opengw.net:1451",
-        "name": "Russia 1078",
+        "id": "vpn159801515.opengw.net:1437",
+        "name": "Russia 1081",
         "country": "Russia",
-        "host": "vpn678118359.opengw.net",
-        "port": 1451,
-        "username": "vpn",
-        "password": "vpn",
-        "is_new": true
-    },
-    {
-        "id": "vpn726437996.opengw.net:1717",
-        "name": "Russia 1079",
-        "country": "Russia",
-        "host": "vpn726437996.opengw.net",
-        "port": 1717,
-        "username": "vpn",
-        "password": "vpn",
-        "is_new": true
-    },
-    {
-        "id": "vpn714117209.opengw.net:1398",
-        "name": "Russia 1080",
-        "country": "Russia",
-        "host": "vpn714117209.opengw.net",
-        "port": 1398,
-        "username": "vpn",
-        "password": "vpn",
-        "is_new": true
-    },
-    {
-        "id": "vpn693963656.opengw.net:995",
-        "name": "Vietnam 226",
-        "country": "Vietnam",
-        "host": "vpn693963656.opengw.net",
-        "port": 995,
-        "username": "vpn",
-        "password": "vpn",
-        "is_new": true
-    },
-    {
-        "id": "vpn655793316.opengw.net:1958",
-        "name": "Belarus 14",
-        "country": "Belarus",
-        "host": "vpn655793316.opengw.net",
-        "port": 1958,
+        "host": "vpn159801515.opengw.net",
+        "port": 1437,
         "username": "vpn",
         "password": "vpn",
         "is_new": true

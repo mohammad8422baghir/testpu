@@ -1,0 +1,32 @@
+[
+    {
+        "id": "vpn266490849.opengw.net:1953",
+        "name": "South Korea 3857",
+        "country": "South Korea",
+        "host": "vpn266490849.opengw.net",
+        "port": 1953,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn297440437.opengw.net:1641",
+        "name": "Japan 3329",
+        "country": "Japan",
+        "host": "vpn297440437.opengw.net",
+        "port": 1641,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    },
+    {
+        "id": "vpn159801515.opengw.net:1437",
+        "name": "Russia 1081",
+        "country": "Russia",
+        "host": "vpn159801515.opengw.net",
+        "port": 1437,
+        "username": "vpn",
+        "password": "vpn",
+        "is_new": true
+    }
+]
